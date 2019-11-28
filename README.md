@@ -80,7 +80,7 @@ To run all of our feature tests:
 
 ---
 ## Test Coverage and Continuous Integration (CI)
-[Coveralls](https://coveralls.io/) was used to test our code coverage during this project.  
+[Coveralls](https://coveralls.io/) was used to test our code coverage on the API during this project. [![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/foodhub-api/badge.svg?branch=development)](https://coveralls.io/github/CraftAcademy/foodhub-api?branch=development)  
 Continuous integration was handled using [Semaphore](https://semaphoreci.com/).  
 
 ---
